@@ -1,5 +1,5 @@
 def merhaba():
-    print("Hello world!")
+    print("Merhaba dünya!")
 
 if __name__ == "__main__":
     merhaba()
